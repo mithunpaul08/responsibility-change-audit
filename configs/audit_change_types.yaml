@@ -1,0 +1,6 @@
+# Angle 4: gate predicate lemma -> change type. Anything else with a non-empty
+# `affects` is CREATE. The only task-informed component of the structural
+# methods; its effect is reported separately (DESIGN_AUDIT_TRAIL.md section 3).
+END: [cease, end, expire, terminate, release, discharge, complete, finish, relieve, lapse]
+TRANSFER: [assign, transfer, delegate, novate, assume, hand, reassign, pass]
+MODIFY: [amend, extend, reduce, replace, vary, change, increase, shorten, revise, add, ask]
